@@ -6,7 +6,6 @@ Installation:
 	The project can be run in Python 3.6 and above.
 	
 Clone the repository
-  		https://github.com/prathishbv/Firm-Management-System.git
- - [x] Write the press release
+	'''https://github.com/prathishbv/Firm-Management-System.git'''
+
 Navigate to the dist folder by giving 
-    
