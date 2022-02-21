@@ -10,14 +10,14 @@ This is the desktop application for the firm management system. This project is 
 git clone https://github.com/prathishbv/Firm-Management-System.git
 ```
 
-# Navigate to the dist folder by giving
-```
-cd figma/dist/main.exe
-```
-
 # Install the requirements if you need to  execute them as python files for reference:
 ```
 pip install requirements.txt
+```
+
+# Navigate to the dist folder by giving
+```
+cd figma/dist/main.exe
 ```
 
 # File Structure and explanation 
