@@ -8,4 +8,11 @@ Installation:
 Clone the repository
 	'''https://github.com/prathishbv/Firm-Management-System.git'''
 
-Navigate to the dist folder by giving 
+Navigate to the dist folder by giving
+
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
