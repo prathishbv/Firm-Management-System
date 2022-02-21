@@ -26,7 +26,7 @@ pip install requirements.txt
 
 # Points to note:
 - This might not be a full-fledged project.
-- It can be extendable if needed
+- It can be extendable if needed.
 - Since we have converted this into an exe file, this can be used without having the python interpreter.
 - If you need to know about how every sector works in this application, you might need a python interpreter and the required modules.
 
