@@ -1,4 +1,4 @@
-# Consultancy project for a Firm management system
+# Consultancy project for a - Firm management system
 
 This is the desktop application for the firm management system. This project is developed using python Tkinter and it is the front end. we have used MongoDB as the database. We have used python as the backend as well. 
 
