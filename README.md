@@ -1,9 +1,9 @@
 # Consultancy project for a - Firm management system
 
-This is the desktop application for the firm management system. This project is developed using python Tkinter and it is the front end. we have used MongoDB as the database. We have used python as the backend as well. 
+This is the desktop application for the firm management system. This project is developed using python Tkinter for the front end and we have used MongoDB as the database. Python as the backend as well. 
 
 # Installation:
-	The project can be run in Python 3.6 and above.
+	The project can run in Python 3.6 and above.
 	
 # Clone the repository
 ```
@@ -17,7 +17,7 @@ pip install requirements.txt
 
 # Navigate to the dist folder by giving
 ```
-cd figma/dist/main.exe
+cd Firm-Management-System/figma/dist/main.exe
 ```
 
 # File Structure and explanation 
